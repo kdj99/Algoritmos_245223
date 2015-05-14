@@ -8,7 +8,8 @@ package Problema_20;
 import java.util.Scanner;
 
 /**
- *
+ * Calcula el factorial de un numero usando el procedimiento
+ * calculos(numero, factorial);
  * @author Chuck
  */
 public class Problema_20 {

@@ -6,7 +6,7 @@
 package Problema_28;
 
 /**
- *
+ * Programa que simula el lanzamiento de una moneda
  * @author Chuck
  */
 public class Problema_28 {

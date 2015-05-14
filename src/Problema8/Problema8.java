@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- *
+ * Programa el cual solo acepta la entrada de caracteres S y N
  * @author Chuck
  */
 public class Problema8 {

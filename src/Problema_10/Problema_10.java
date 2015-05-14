@@ -8,7 +8,7 @@ package Problema_10;
 import java.util.Scanner;
 
 /**
- *
+ * Programa que indica si el numero ingresado es impar o par
  * @author Chuck
  */
 public class Problema_10 {

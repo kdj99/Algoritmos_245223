@@ -6,7 +6,8 @@
 package Problema5;
 
 /**
- *
+ *Programa que imprime los numeros impares de 1 a 100 y cuenta cuantos impares
+ * encontro mediante un ciclo for
  * @author Chuck
  */
 public class Problema5 {

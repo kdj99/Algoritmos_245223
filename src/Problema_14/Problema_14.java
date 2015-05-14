@@ -8,7 +8,8 @@ package Problema_14;
 import java.util.Scanner;
 
 /**
- *
+ * Programa que imprime el mayor y menos de una serie de 5 numeros
+ * ingresados por el usuario.
  * @author Chuck
  */
 public class Problema_14 {

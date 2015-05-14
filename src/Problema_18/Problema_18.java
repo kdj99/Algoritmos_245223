@@ -11,7 +11,8 @@ import java.io.InputStreamReader;
 import java.util.Scanner;
 
 /**
- *
+ * Programa que determina cuantas veces aparece una letra en una cadena
+ * ingresada por el usuario.
  * @author Chuck
  */
 public class Problema_18 {
