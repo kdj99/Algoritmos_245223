@@ -8,9 +8,7 @@ package Problema_15;
 import java.util.Scanner;
 
 /**
- * Programa que lee 2 numeros ingresadors por el usuario, imprime
- * los numeros naturales entre ellos y cuenta cuantos naturales hay
- * y cuantos de ellos son pares, calcula la suma de impares.
+ *
  * @author Chuck
  */
 public class Problema_15 {

@@ -5,9 +5,10 @@
  */
 package Problema_12;
 
+import java.util.Scanner;
+
 /**
- * Programa que imprime los numeros del 1 a 100 y calcula la suma
- * de todos los pares encontrados y separando la suma de los impares
+ *
  * @author Chuck
  */
 public class Problema_12 {

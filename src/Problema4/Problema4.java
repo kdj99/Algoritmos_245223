@@ -6,8 +6,7 @@
 package Problema4;
 
 /**
- *Programa que imprime la suma de los 100 primeros numeros mediante
- * un ciclo for y una variable temporal
+ *
  * @author Chuck
  */
 public class Problema4 {

@@ -8,8 +8,7 @@ package Problema_11;
 import java.util.Scanner;
 
 /**
- * Programa que cuenta los multiplos de 3 desde 1 hasta un
- * numero ingresado por el usuario
+ *
  * @author Chuck
  */
 public class Problema_11 {

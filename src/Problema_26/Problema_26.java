@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * Programa que imprime una frase al centro de la pantalla
+ *
  * @author Chuck
  */
 public class Problema_26 {

@@ -6,8 +6,7 @@
 package Problema_23;
 
 /**
- * Programa que imprime los numeros del 0 a 100 pero separando
- * las progresiones en columnnas y filas.
+ *
  * @author Chuck
  */
 public class Problema_23 {

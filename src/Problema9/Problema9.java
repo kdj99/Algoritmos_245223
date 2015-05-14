@@ -8,7 +8,7 @@ package Problema9;
 import java.util.Scanner;
 
 /**
- * Programa que nos indica si el numero ingresado es positivo o negativo
+ *
  * @author Chuck
  */
 public class Problema9 {

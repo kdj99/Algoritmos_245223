@@ -8,8 +8,7 @@ package Problema_25;
 import java.util.Scanner;
 
 /**
- * Programa que convierte un numero a numero romano menor
- * a 5000
+ *
  * @author Chuck
  */
 public class Problema_25 {

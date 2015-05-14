@@ -6,8 +6,7 @@
 package Problema1;
 
 /**
- * Programa que imprime los numeros de 1 al 1000 mediante
- * un ciclo for
+ *
  * @author Chuck
  */
 public class Problema1 {

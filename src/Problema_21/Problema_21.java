@@ -6,8 +6,7 @@
 package Problema_21;
 
 /**
- * Programa que calcula la suma de pares e impares entre
- * 1 y 1000 usando un switch.
+ *
  * @author Chuck
  */
 public class Problema_21 {

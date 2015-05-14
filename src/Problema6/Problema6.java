@@ -8,8 +8,6 @@ package Problema6;
 import java.util.Scanner;
 
 /**
- * Programa que imprime los numeros naturales desde 1 hasta uno indicado
- * por el usuario mediante un ciclo for
  *
  * @author Chuck
  */
