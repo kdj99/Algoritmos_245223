@@ -6,7 +6,8 @@
 package Problema3;
 
 /**
- *
+ * Programa que imprime los numeros pares entre 0 y 100
+ * mediante un ciclo for
  * @author Chuck
  */
 public class Problema3 {

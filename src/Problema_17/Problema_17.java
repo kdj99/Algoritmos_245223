@@ -8,7 +8,9 @@ package Problema_17;
 import java.util.Scanner;
 
 /**
- *
+ * Programa que imprime, cuenta y suma los multiplos de 2
+ * que hay entre una serie de numeros tal que el segundo sea mayor
+ * que el primero
  * @author Chuck
  */
 public class Problema_17 {

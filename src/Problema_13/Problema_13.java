@@ -6,7 +6,8 @@
 package Problema_13;
 
 /**
- *
+ * Programa que imprime los numeros que son multiplos de 2 y 3 
+ * que hay entre 1 y 100
  * @author Chuck
  */
 public class Problema_13 {

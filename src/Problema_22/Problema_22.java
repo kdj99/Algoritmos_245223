@@ -10,7 +10,8 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- *
+ * Programa que imprime 5 veces en filas consecutivas 
+ * desokazando cuatro columnas una frase ingresado por el usuario.
  * @author Chuck
  */
 public class Problema_22 {

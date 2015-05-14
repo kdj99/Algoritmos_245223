@@ -8,7 +8,8 @@ package Problema_24;
 import java.util.Scanner;
 
 /**
- *
+ * Programa que comprueba si un numero mayor o 
+ * igual que 1 y si es primo
  * @author Chuck
  */
 public class Problema_24 {

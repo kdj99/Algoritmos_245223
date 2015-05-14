@@ -8,7 +8,8 @@ package Problema_27;
 import java.util.Scanner;
 
 /**
- *
+ * Imprime la tabla de multiplicar de un numero ingresado de
+ * 1 a 10.
  * @author Chuck
  */
 public class Problema_27 {

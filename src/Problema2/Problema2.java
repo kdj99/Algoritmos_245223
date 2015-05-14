@@ -6,7 +6,8 @@
 package Problema2;
 
 /**
- *
+ * Programa que imprime un numero del 100 al 0 de forma decreciente
+ * mediante el uso de un ciclo for
  * @author Chuck
  */
 public class Problema2 {

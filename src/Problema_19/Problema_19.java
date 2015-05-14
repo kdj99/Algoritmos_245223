@@ -8,7 +8,8 @@ package Problema_19;
 import java.util.Scanner;
 
 /**
- *
+ * programa que simula el funcionamiento de un reloj digital, permite
+ * ingresar horas, minutos y segundos.
  * @author Chuck
  */
 public class Problema_19 {

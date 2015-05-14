@@ -6,7 +6,7 @@
 package Problema_16;
 
 /**
- *
+ * Programa que imprime la serie de numeros de 1 a 10, 10 veces
  * @author Chuck
  */
 public class Problema_16 {
